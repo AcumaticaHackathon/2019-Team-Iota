@@ -1,0 +1,8 @@
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\obj\Debug\Hackathon2019Stan.csproj.CoreCompileInputs.cache
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\bin\Debug\Hackathon2019Stan.dll
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\bin\Debug\Hackathon2019Stan.pdb
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\bin\Debug\PX.CS.Contracts.dll
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\bin\Debug\PX.CS.Contracts.pdb
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\obj\Debug\Hackathon2019Stan.dll
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\obj\Debug\Hackathon2019Stan.pdb
+C:\Users\Stan\source\repos\Hackathon2019\Hackathon2019Stan\Hackathon2019Stan\Hackathon2019Stan\obj\Debug\Hackathon2019Stan.csprojResolveAssemblyReference.cache

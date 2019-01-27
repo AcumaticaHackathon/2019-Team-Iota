@@ -1,0 +1,9 @@
+﻿<EntityEndpoint>
+    <Endpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="AddCredits" version="19.099" systemContractVersion="3" xmlns="http://www.acumatica.com/entity/maintenance/5.31">
+        <TopLevelEntity name="Invoice" screen="AR301000">
+            <Actions>
+                <Action name="AddCredits" mappedTo="AddCredits" />
+            </Actions>
+        </TopLevelEntity>
+    </Endpoint>
+</EntityEndpoint>
